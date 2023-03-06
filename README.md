@@ -1,71 +1,73 @@
-# Getting Started with Create React App
+## Introduction:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Movie Finder App:
 
-## Available Scripts
+This is an app that allows the user to register and login and add a new movie among other functionalities such as:
+- User can view all the added movies.
+- User can view all the available movies.
+- A user can search a movie through title or year.
+- A user can be able to update details of the movie they have added.
+- A user can be able to remove details of the movie they have added.
+- A user can not update or delete movies they have not added.
+- A user has to be logged in to use the application. 
 
-In the project directory, you can run:
+## Created Using:
 
-### `npm start`
+This is an app that has been created using:
+- React: For Front end and User Interface (UI)
+- Ruby- Sinatra- Gem- For backend and server interaction
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Steps followed to complete the application:
+1. Designed the UI: Before starting the development, I first planned out the user interface (UI) of my application. I Sketched out a few designs to get an idea of how I wanted the app to look and function.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+2. Set up the backend: I then Began setting up the backend server using Sinatra. This is a lightweight web framework written in Ruby. I used a tool called Bundler to manage my application's dependencies.
 
-### `npm test`
+3. Create APIs: The backend of my application needed to expose a few endpoints (APIs) that can be used by the frontend. For example, I needed to create an API that allowed the user to search for movies based on a user's query. I used a Ruby libraries known JSON to make HTTP requests to external movie databases (e.g. IMDb) and parse the JSON response.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+4. Set up the frontend: Next, I set up my React project using create-react-app. This gave me a basic React application with a development server and a few other useful tools.
 
-### `npm run build`
+5. Create components: In React, I created reusable UI components that can be used throughout my application. For example, I created a MovieCard component that displayed information about a single movie (e.g. title, poster image, rating, etc.).
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+6. Connect to the backend: Using the fetch API or a library like axios, I made requests to my backend API endpoints and retrieved data. I then updated my React components with the retrieved data.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+7. Build the search functionality: Finally, I implemented the search functionality in my application. When a user enters a search query, he/she can make a request to my backend API and retrieve a list of movies that match the query. The results are displayed in the search results to the user in a list or grid view.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Running the application:
 
-### `npm run eject`
+The best way to use the application is on a web browser, by following these simple steps:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. Click on the deployed link: https://movie-finder-six-delta.vercel.app/
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Testing the functionalities of the application:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+2. Try out each of the following functions:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- User can view all the added movies.
 
-## Learn More
+- User can view all the available movies.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- A user can search a movie through title or year.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- A user can be able to update details of the movie they have added.
 
-### Code Splitting
+- A user can be able to remove details of the movie they have added.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- A user can not update or delete movies they have not added.
 
-### Analyzing the Bundle Size
+- A user has to be logged in to use the application. 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+3. Congratulations, you have successfully tested out the application. 
 
-### Making a Progressive Web App
+## Conclusion:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+I have successfully made an application that involves the front end and the backend and is able to perform CRUD operations. For more information about how the backend operates, please visit this link:
 
-### Advanced Configuration
+## Worked on by:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+1. Brian Wahungu.
 
-### Deployment
+2. Albert Byrone.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## License:
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# mov
+Apache 2.0 
