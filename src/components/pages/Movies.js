@@ -24,4 +24,5 @@ const Movies = () => {
 
   const handleSearch = async (event) => {
     event.preventDefault();
-
+  }} 
+  export default Movies;

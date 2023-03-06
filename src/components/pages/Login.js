@@ -1,12 +1,12 @@
 import React, { useState } from 'react';
-import { useHistory } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
 import axios from 'axios';
 
 const Login = ({ setToken }) => {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
   const [errorMessage, setErrorMessage] = useState('');
-  const history = useHistory();
+  const navigate = useNavigate();
 
   const handleSubmit = async (event) => {
     event.preventDefault();
@@ -19,7 +19,7 @@ const Login = ({ setToken }) => {
 
       localStorage.setItem('token', response.data.token);
       setToken(response.data.token);
-      history.push('/movies');
+      navigate('/movies');
     } catch (error) {
       setErrorMessage('Invalid email or password.');
     }
