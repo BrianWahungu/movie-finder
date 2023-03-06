@@ -1,0 +1,108 @@
+[
+    {
+    "id": 1,
+    "image": "https://cdn.vox-cdn.com/thumbor/UI2jTmhOnse07JCl0yCO79jMQiU=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/11614195/InfinityWar5aabd55fed5fa.jpg",
+    "title": "Avengers: Endgame",
+    "category": "Action",
+    "description": "The Avengers must undo Thanos' actions and restore order to the universe."
+    },
+    {
+    "id": 2,
+    "image": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_FMjpg_UX1000_.jpg",
+    "title": "Spider-Man: No Way Home",
+    "category": "Action",
+    "description": "Peter Parker teams up with Doctor Strange to deal with multiverse threats."
+    },
+    {
+    "id": 3,
+    "image": "https://themoviespoiler.com/wp-content/uploads/2019/05/john_wick_chapter_three_ver26_xlg.jpg",
+    "title": "John Wick: Chapter 3 - Parabellum",
+    "category": "Action",
+    "description": "John Wick is on the run after killing a member of the international assassins' guild."
+    },
+    {
+    "id": 4,
+    "image": "https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_.jpg",
+    "title": "Get Out",
+    "category": "Horror",
+    "description": "A young African American man visits his white girlfriend's family estate."
+    },
+    {
+    "id": 5,
+    "image": "https://m.media-amazon.com/images/M/MV5BNjQ0Mzk0OTE5MF5BMl5BanBnXkFtZTgwNDkyOTI0NTM@._V1_.jpg",
+    "title": "The Kissing Booth",
+    "category": "Romance",
+    "description": "Elle Evans has never been kissed, but she falls in love with her best friend's older brother, Noah Flynn. As they navigate their feelings for each other, they face challenges from friends and family that threaten to tear them apart."
+    },
+    {
+    "id": 6,
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Baywatch_poster.jpg/220px-Baywatch_poster.jpg",
+    "title": "Baywatch",
+    "category": "Action/Comedy",
+    "description": "Baywatch follows devoted lifeguard Mitch Buchannon (Dwayne Johnson) as he butts heads with a brash new recruit (Zac Efron). Together, they uncover a local criminal plot that threatens the future of the Bay."
+    },
+    {
+    "id": 7,
+    "image": "https://m.media-amazon.com/images/I/71SBLPWOcSL._RI_.jpg",
+    "title": "Along With the Gods: The Two Worlds",
+    "category": "K-Pop",
+    "description": "After dying unexpectedly, a firefighter is guided by three guardians through the afterlife."
+    },
+    {
+    "id": 8,
+    "image": "https://m.media-amazon.com/images/I/81nWT0SVbIL._AC_SL1500_.jpg",
+    "title": "The Conjuring: The Devil Made Me Do It",
+    "category": "Horror",
+    "description": "A chilling story of terror, murder and unknown evil that shocked even experienced real-life paranormal investigators Ed and Lorraine Warren. One of the most sensational cases from their files, it starts with a fight for the soul of a young boy, then takes them beyond anything they’d ever seen before, to mark the first time in U.S. history that a murder suspect would claim demonic possession as a defense."
+    },
+    {
+    "id": 9,
+    "image": "https://fr.web.img6.acsta.net/pictures/20/02/12/13/58/3992754.jpg",
+    "title": "Parasite",
+    "category": "K-Pop",
+    "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan."
+    },
+    {
+    "id": 10,
+    "image": "https://flxt.tmsimg.com/assets/p17693699_b_v13_ac.jpg",
+    "title": "Crash Landing on You",
+    "category": "K-Pop",
+    "description": "A paragliding mishap drops a South Korean heiress in North Korea -- and into the life of an army officer, who decides he will help her hide."
+    },
+    {
+    "id": 11,
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a9/The_Fault_in_Our_Stars.jpg",
+    "title": "The Fault in Our Stars",
+    "category": "Romance",
+    "description": "Two teenage cancer patients begin a life-affirming journey to visit a reclusive author in Amsterdam."
+    },
+    {
+    "id": 12,
+    "image": "https://www.usmagazine.com/wp-content/uploads/2022/11/The-Notebook-Cast-Where-Are-They-Now-101.jpg?quality=55&strip=all",
+    "title": "The Notebook",
+    "category": "Romance",
+    "description": "A poor yet passionate young man falls in love with a rich young woman, giving her a sense of freedom, but they are soon separated because of their social differences."
+    },
+    {
+    "id": 13,
+    "image": "http://desmonddoss.com/hacksaw-ridge-movie/hrm.jpg",
+    "title": "Hacksaw Ridge",
+    "category": "Action",
+    "description": "The true story of Pfc. Desmond T. Doss (Andrew Garfield), who won the Congressional Medal of Honor despite refusing to bear arms during WWII on religious grounds. Doss was drafted and ostracized by fellow soldiers for his pacifist stance but went on to earn respect and adoration for his bravery, selflessness and compassion after he risked his life -- without firing a shot -- to save 75 men in the Battle of Okinawa."
+    },
+    {
+    "id": 14,
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/590780/header.jpg?t=1667260130",
+    "title": "John Wick: Chapter 2",
+    "category": "Action",
+    "description": "Legendary hitman John Wick is forced back out of retirement by a former associate plotting to seize control of a shadowy international assassins’ guild. Bound by a blood oath to help him, John travels to Rome, where he squares off against some of the world’s deadliest killers."
+    },
+    {
+    "id": 15,
+    "image": "https://i.ytimg.com/vi/fEE4RO-_jug/maxresdefault.jpg",
+    "title": "Fast9: The Fast Saga",
+    "category": "Action",
+    "description": "Dom and the crew must take on an international terrorist who turns out to be Dom and Mia's estranged brother."
+    }
+    ]
+    
